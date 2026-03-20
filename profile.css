@@ -1,0 +1,134 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#f4f7fb;
+    line-height:1.6;
+}
+
+section{
+    width:80%;
+    margin:auto;
+    padding:40px 0;
+}
+
+h1{
+    font-size:40px;
+    color:#012f6b;
+}
+
+h2{
+    font-size:28px;
+    color:#012f6b;
+    margin-bottom:20px;
+    border-bottom:3px solid #012f6b;
+    display:inline-block;
+    padding-bottom:5px;
+}
+
+h3{  color:#2c3e50;
+    margin-top:10px;
+}
+
+.bio{
+    text-align:center;
+}
+
+.skills dl{
+    background:white;
+    padding:25px;
+    border-radius:8px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.1);
+}
+
+.skills dt{
+    font-weight:bold;
+    margin-top:15px;
+    color:#012f6b;
+}
+
+.skills dd{
+    margin-left:10px;
+    margin-top:5px;
+    color:#444;
+}
+
+#proj1,#proj2,#proj3,#proj4{
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.1);
+    margin-bottom:5px;
+}
+
+#proj1,#proj2{
+    box-sizing: border-box;
+}
+.proj1_img{
+    width: 150px;
+    height:150px;
+    margin:10px;
+    float: left;
+}
+.proj2_img{
+    width: 150px;
+    height:150px;
+    margin:10px;
+    float: right;
+}
+
+.papers #paper1{
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.1);
+}
+.papers h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color:#2c3e50;
+    
+}
+
+.paper1_img{
+    width:120px;
+    float:left;
+    margin-right:15px;
+    }
+
+.achievements dl{
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.1);
+    margin-bottom:10px;
+}
+
+footer{
+    background-color: #012f6b;
+    color: white;
+    padding:30px;
+    
+}
+footer #contacts{
+    color:white;
+    text-decoration: none;
+}
+
+h4{
+    font-weight: medium;
+}
+
+a:hover{
+    transition: 0.3s;
+}
+.link_proj1{
+    font-size: 14px;
+    color: #012f6b;
+    margin-top: 5px;
+    float:bottom;
+}

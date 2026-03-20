@@ -1,0 +1,35 @@
+
+body{
+  background: linear-gradient(120deg,#0653b7,#6e809a);
+}
+
+#education{
+background:#f3f6fb;
+padding:60px 0;
+}
+
+#education h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin:10px;
+    padding:10px;
+    color:#012f6b;
+    font-size:32px;
+    margin-top:80px;
+
+}
+
+.edu-item {
+  margin: 15px;
+  border-left: 4px solid #0b3a75;
+  padding-left: 30px;
+}
+
+.edu-item p {
+  margin: 5px;
+  color:#374559;
+}
+
+.edu-item h3 {
+  margin: 3px 0;
+  color: #012f6b;
+}
