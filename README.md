@@ -21,5 +21,5 @@ Moreover, the page is made responsive for smaller sized devices
 
 Future Improvements:
 1. Add animations to my UI design
-2. Improve reponsiveness
+2. Improve responsiveness
 3. Add more projects
