@@ -190,7 +190,8 @@ ul{
         float:none;
     }
     #para1{
-        font-family:cursive;
+        font-family:Arial;
+        line-height:3px;
         font-size: 20px;
         text-align: center;
         margin: 20px;
