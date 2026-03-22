@@ -191,13 +191,12 @@ ul{
     }
     #para1{
         font-family:cursive;
-        line-height:10px;
         font-size: 14px;
         text-align: center;
         margin: 20px;
         padding:10px;
         text-align: justify;
-        margin-bottom:75px;
+        margin-bottom:125px;
     }
     
 }
