@@ -37,9 +37,6 @@ li,a:hover{
     
     
 }
-a:hover{
- transition: 0.3s;
-}
 
 li{
     margin:auto;
@@ -50,6 +47,7 @@ a{
     font-size:16px;
     padding:8px 15px;
     margin:0px 50px;
+    transition: all 0.3s;
 }
 
 ul{
